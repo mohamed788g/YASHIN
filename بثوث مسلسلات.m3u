@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,410898.ts
+#EXTVLCOPT:network-caching=1000
+http://dar-dar4k.com:8080/live/DalilHen/ulxDFmPFp8/410898.ts
+#EXTINF:0,410899.ts
+http://dar-dar4k.com:8080/live/DalilHen/ulxDFmPFp8/410899.ts
